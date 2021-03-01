@@ -1,13 +1,63 @@
 body{
-    background-image: url(https://www.tdea.edu.co/images/tdea/galeria/campus_2021.jpg);
-    background-color: transparent;
+    background-color: rgb(255, 255, 255);
 }
 strong{
-    color: rgb(57, 218, 57);
-}
-section{
-    width: 50%;
-    height: 50%;
-    background-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
     margin: 0% auto;
+}
+#text{
+    height: 50%;
+    color: black;
+    margin: 0% auto;
+}
+#text2{
+    height: 50%;
+    color: black;
+    margin: 0% auto;
+}
+#text3{
+    height: 50%;
+    color: black;
+    margin: 0% auto;
+}
+#text4{
+    height: 50%;
+    color: black;
+    margin: 0% auto;
+}
+h1{
+    height: 50%;
+    width: 300px;
+    background-color: blue;
+    margin: 0% auto;
+}
+h2{
+    height: 50%;
+    width: 300px;
+    background-color: blue;
+    margin: 0% auto;
+}
+h3{
+    height: 50%;
+    width: 300px;
+    background-color: blue;
+    margin: 0% auto;
+}
+h4{
+    height: 50%;
+    width: 300px;
+    background-color: blue;
+    margin: 0% auto;
+}
+h5{
+    height: 50%;
+    width: 300px;
+    background-color: blue;
+    margin: 0% auto;
+}
+#imagen{
+    height: 50%;
+    border: aqua 30px;
+    width: 300px;
+    margin-left: 517px ;
 }
