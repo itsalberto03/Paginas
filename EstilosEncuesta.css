@@ -1,0 +1,13 @@
+body{
+    background-image: url(https://www.tdea.edu.co/images/tdea/galeria/campus_2021.jpg);
+    background-color: transparent;
+}
+strong{
+    color: rgb(57, 218, 57);
+}
+section{
+    width: 50%;
+    height: 50%;
+    background-color: rgb(255, 255, 255);
+    margin: 0% auto;
+}
